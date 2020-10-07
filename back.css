@@ -1,0 +1,67 @@
+.my-3 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.full-width-input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border: 1px solid lightgray;
+    border-top-color: lightgray;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: lightgray;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: lightgray;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: lightgray;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    font-size: 1em;
+    resize: none;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    border: none;
+    font-size: 1.2em;
+    color: #aaa;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.btn-inline {
+    display: inline-block;
+    width: auto;
+}
+
+.btn-primary {
+    background-color: olive;
+    color: white;
+}
+
+.pointer {
+    cursor: pointer !important;
+}
+
+.pointer:hover {
+    opacity: 0.7;
+}
+
+.pointer:active {
+    outline: none;
+}
